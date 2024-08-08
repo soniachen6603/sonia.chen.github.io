@@ -11,7 +11,7 @@ title                    : "Sonia Chen's Space"
 title_separator          : "-"
 name                     : &name "Sonia Chen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://soniachen6603.github.io/sonia.chen.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "soniachen6603/sonia.chen.github.io"
 
@@ -23,14 +23,13 @@ author:
   avatar           : "profile_pic.png"
   name             : "Sonia"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A Literature Student in a Business World"
   location         : "LA, US"
   uri              : # URL
   email            : "soniachen6603@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -47,7 +46,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "soniachen547"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -55,7 +54,7 @@ author:
   keybase          : # Username
   instagram        : "sonia___chen"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "soniachen01"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
