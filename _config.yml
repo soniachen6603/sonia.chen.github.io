@@ -25,10 +25,10 @@ author:
   name             : "Sonia Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "LA"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "soniachen6603@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -49,7 +49,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : # Sonia Chen
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
