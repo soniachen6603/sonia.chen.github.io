@@ -11,15 +11,12 @@ url                      : https://sonia.chen.github.io # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sonia.chen.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.JPG"
+  avatar           : "profile_pic.PNG"
   name             : "Sonia Chen"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A Literature Student in a Business World"
   location         : "LA"
   url              : "sonia.chen.github.io"
   email            : "soniachen6603@gmail.com" 
