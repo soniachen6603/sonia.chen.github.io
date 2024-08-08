@@ -20,7 +20,7 @@ repository               : "soniachen6603/sonia.chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : images/profile_pic.png
+  avatar           : https://github.com/soniachen6603/sonia.chen.github.io/blob/439bfbfbfc7ea39d9f02ede812879a8da728d2aa/images/profile_pic.png
   name             : "Sonia"
   pronouns         : "she/her"  
   bio              : "A Literature Student in a Business World"
